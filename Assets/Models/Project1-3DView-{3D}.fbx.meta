@@ -1,0 +1,132 @@
+fileFormatVersion: 2
+guid: b3566211d619a1b41a90c5894e617758
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: '3D View: {3D}'
+    100002: Basic Wall Generic - 8" [125949]
+    100004: Basic Wall Generic - 8" [125960]
+    100006: Basic Wall Generic - 8" [126033]
+    100008: Basic Wall Generic - 8" [126060]
+    100010: Basic Wall Generic - 8" [126087]
+    100012: Basic Wall Generic - 8" [126119]
+    100014: Basic Wall Generic - 8" [126225]
+    100016: Basic Wall Generic - 8" [126252]
+    100018: Basic Wall Generic - 8" [126305]
+    100020: Basic Wall Generic - 8" [126360]
+    100022: Floor Concrete Slab - 6" [126135]
+    100024: //RootNode
+    100026: Single-Flush 36" x 84" [126376]
+    100028: Single-Flush 36" x 84" [126391]
+    100030: Single-Flush 36" x 84" [126412]
+    400000: '3D View: {3D}'
+    400002: Basic Wall Generic - 8" [125949]
+    400004: Basic Wall Generic - 8" [125960]
+    400006: Basic Wall Generic - 8" [126033]
+    400008: Basic Wall Generic - 8" [126060]
+    400010: Basic Wall Generic - 8" [126087]
+    400012: Basic Wall Generic - 8" [126119]
+    400014: Basic Wall Generic - 8" [126225]
+    400016: Basic Wall Generic - 8" [126252]
+    400018: Basic Wall Generic - 8" [126305]
+    400020: Basic Wall Generic - 8" [126360]
+    400022: Floor Concrete Slab - 6" [126135]
+    400024: //RootNode
+    400026: Single-Flush 36" x 84" [126376]
+    400028: Single-Flush 36" x 84" [126391]
+    400030: Single-Flush 36" x 84" [126412]
+    2300000: Basic Wall Generic - 8" [125949]
+    2300002: Basic Wall Generic - 8" [125960]
+    2300004: Basic Wall Generic - 8" [126033]
+    2300006: Basic Wall Generic - 8" [126060]
+    2300008: Basic Wall Generic - 8" [126087]
+    2300010: Basic Wall Generic - 8" [126119]
+    2300012: Basic Wall Generic - 8" [126225]
+    2300014: Basic Wall Generic - 8" [126252]
+    2300016: Basic Wall Generic - 8" [126305]
+    2300018: Basic Wall Generic - 8" [126360]
+    2300020: Floor Concrete Slab - 6" [126135]
+    2300022: Single-Flush 36" x 84" [126376]
+    2300024: Single-Flush 36" x 84" [126391]
+    2300026: Single-Flush 36" x 84" [126412]
+    3300000: Basic Wall Generic - 8" [125949]
+    3300002: Basic Wall Generic - 8" [125960]
+    3300004: Basic Wall Generic - 8" [126033]
+    3300006: Basic Wall Generic - 8" [126060]
+    3300008: Basic Wall Generic - 8" [126087]
+    3300010: Basic Wall Generic - 8" [126119]
+    3300012: Basic Wall Generic - 8" [126225]
+    3300014: Basic Wall Generic - 8" [126252]
+    3300016: Basic Wall Generic - 8" [126305]
+    3300018: Basic Wall Generic - 8" [126360]
+    3300020: Floor Concrete Slab - 6" [126135]
+    3300022: Single-Flush 36" x 84" [126376]
+    3300024: Single-Flush 36" x 84" [126391]
+    3300026: Single-Flush 36" x 84" [126412]
+    4300000: Basic Wall Generic - 8" [125949]
+    4300002: Basic Wall Generic - 8" [125960]
+    4300004: Basic Wall Generic - 8" [126033]
+    4300006: Basic Wall Generic - 8" [126060]
+    4300008: Basic Wall Generic - 8" [126087]
+    4300010: Basic Wall Generic - 8" [126119]
+    4300012: Floor Concrete Slab - 6" [126135]
+    4300014: Basic Wall Generic - 8" [126225]
+    4300016: Basic Wall Generic - 8" [126252]
+    4300018: Basic Wall Generic - 8" [126305]
+    4300020: Basic Wall Generic - 8" [126360]
+    4300022: Single-Flush 36" x 84" [126376]
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
